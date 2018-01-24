@@ -4,3 +4,4 @@ filter->dispatcherServlet->MapingHandlerMapping->controller->dispatcherServlet->
 spring rest template
 annotation
 aspectJ AOP
+Twitter-Snowflake 64 autoincrect ID demo
